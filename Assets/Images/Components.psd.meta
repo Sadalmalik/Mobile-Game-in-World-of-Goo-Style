@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 30178ada3baeb0341931354c99c6c99b
+timeCreated: 1450565853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlatBlock
+    21300002: BoxBlock
+    21300004: DecorBlock
+    21300006: ConnectBlock
+    21300008: Gear18
+    21300010: Gear10
+    21300012: Gear6
+    21300014: RopeKnot
+    21300016: Rope
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 4
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlatBlock
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 386
+        width: 502
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BoxBlock
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 244
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DecorBlock
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ConnectBlock
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 184
+        width: 273
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gear18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gear10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gear6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RopeKnot
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rope
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 291
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Sprates
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
